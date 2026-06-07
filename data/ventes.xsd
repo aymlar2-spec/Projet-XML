@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="ventes">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="annee" type="TypeAnnee" minOccurs="1" maxOccurs="unbounded"/>
+      </xs:sequence>
+      <xs:attribute name="entreprise" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:complexType name="TypeAnnee">
+    <xs:sequence>
+      <xs:element name="mois" type="TypeMois" minOccurs="12" maxOccurs="12"/>
+    </xs:sequence>
+    <xs:attribute name="valeur" type="TypeAnneeValeur" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="TypeMois">
+    <xs:attribute name="nom"        type="TypeNomMois"       use="required"/>
+    <xs:attribute name="vehicules"  type="TypeEntierPositif" use="required"/>
+    <xs:attribute name="thermique"  type="TypeEntierPositif" use="required"/>
+    <xs:attribute name="hybride"    type="TypeEntierPositif" use="required"/>
+    <xs:attribute name="electrique" type="TypeEntierPositif" use="required"/>
+    <xs:attribute name="montant"    type="TypeMontant"       use="required"/>
+  </xs:complexType>
+
+  <xs:simpleType name="TypeAnneeValeur">
+    <xs:restriction base="xs:integer">
+      <xs:minInclusive value="2000"/>
+      <xs:maxInclusive value="2100"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="TypeNomMois">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Janvier"/>
+      <xs:enumeration value="Février"/>
+      <xs:enumeration value="Mars"/>
+      <xs:enumeration value="Avril"/>
+      <xs:enumeration value="Mai"/>
+      <xs:enumeration value="Juin"/>
+      <xs:enumeration value="Juillet"/>
+      <xs:enumeration value="Août"/>
+      <xs:enumeration value="Septembre"/>
+      <xs:enumeration value="Octobre"/>
+      <xs:enumeration value="Novembre"/>
+      <xs:enumeration value="Décembre"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="TypeEntierPositif">
+    <xs:restriction base="xs:integer">
+      <xs:minInclusive value="0"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="TypeMontant">
+    <xs:restriction base="xs:integer">
+      <xs:minInclusive value="0"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+</xs:schema>
