@@ -85,6 +85,36 @@ Le jeu de données a été conçu pour reproduire :
 
 ---
 
-## Auteur
+## Équipe du projet
 
-Création du jeu de données XML : [Votre Nom]
+| Membre          | Responsabilité                           |
+| --------------- | ---------------------------------------- |
+| Largou Ayman       | Conception et création du fichier XML    |
+| Saadani Hassani Ghizlane | Validation des données avec XSD          |
+| Amiry Aya | Analyse statistique et prévisions Python |
+|Rhahla Mohammed-Ihab| Génération du rapport HTML via XSLT      |
+
+---
+
+## Répartition des tâches
+
+### XML
+
+Création du jeu de données historique de l'entreprise CarPulse couvrant la période 2016–2025.
+
+### XSD
+
+Définition du schéma XML et validation de la cohérence des données.
+
+### Python
+
+Calcul des indicateurs statistiques, moyenne mobile, tendance linéaire et prévisions.
+
+### XSLT / HTML
+
+Transformation des données XML en rapport HTML interactif avec tableaux et graphiques.
+
+### Documentation
+
+Rédaction du rapport technique, tests et validation finale du projet.
+
