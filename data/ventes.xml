@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ventes entreprise="CarPulse">
+
+    <annee valeur="2016">
+
+        <mois nom="Janvier"
+              vehicules="15"
+              thermique="13"
+              hybride="1"
+              electrique="1"
+              montant="415450"/>
+
+        <mois nom="Février"
+              vehicules="15"
+              thermique="13"
+              hybride="1"
+              electrique="1"
+              montant="415000"/>
+
+        <mois nom="Mars"
+              vehicules="17"
+              thermique="15"
+              hybride="1"
+              electrique="1"
+              montant="474800"/>
+
+        <mois nom="Avril"
+              vehicules="17"
+              thermique="15"
+              hybride="1"
+              electrique="1"
+              montant="474800"/>
+
+        <mois nom="Mai"
+              vehicules="17"
+              thermique="14"
+              hybride="2"
+              electrique="1"
+              montant="474800"/>
+
+        <mois nom="Juin"
+              vehicules="19"
+              thermique="16"
+              hybride="2"
+              electrique="1"
+              montant="534150"/>
+
+        <mois nom="Juillet"
+              vehicules="15"
+              thermique="13"
+              hybride="1"
+              electrique="1"
+              montant="415450"/>
+
+        <mois nom="Août"
+              vehicules="13"
+              thermique="11"
+              hybride="1"
+              electrique="1"
+              montant="356100"/>
+
+        <mois nom="Septembre"
+              vehicules="17"
+              thermique="15"
+              hybride="1"
+              electrique="1"
+              montant="474800"/>
+
+        <mois nom="Octobre"
+              vehicules="19"
+              thermique="17"
+              hybride="1"
+              electrique="1"
+              montant="534150"/>
+
+        <mois nom="Novembre"
+              vehicules="21"
+              thermique="18"
+              hybride="2"
+              electrique="1"
+              montant="593500"/>
+
+        <mois nom="Décembre"
+              vehicules="26"
+              thermique="22"
+              hybride="3"
+              electrique="1"
+              montant="771550"/>
+
+    </annee>
+
+    <annee valeur="2017">
+
+        <mois nom="Janvier"
+              vehicules="16"
+              thermique="13"
+              hybride="2"
+              electrique="1"
+              montant="444500"/>
+
+        <mois nom="Février"
+              vehicules="16"
+              thermique="13"
+              hybride="2"
+              electrique="1"
+              montant="444500"/>
+
+        <mois nom="Mars"
+              vehicules="18"
+              thermique="15"
+              hybride="2"
+              electrique="1"
+              montant="508000"/>
+
+        <mois nom="Avril"
+              vehicules="18"
+              thermique="15"
+              hybride="2"
+              electrique="1"
+              montant="508000"/>
+
+        <mois nom="Mai"
+              vehicules="18"
+              thermique="15"
+              hybride="2"
+              electrique="1"
+              montant="508000"/>
+
+        <mois nom="Juin"
+              vehicules="20"
+              thermique="16"
+              hybride="2"
+              electrique="2"
+              montant="571500"/>
+
+        <mois nom="Juillet"
+              vehicules="16"
+              thermique="13"
+              hybride="2"
+              electrique="1"
+              montant="444500"/>
+
+        <mois nom="Août"
+              vehicules="14"
+              thermique="11"
+              hybride="2"
+              electrique="1"
+              montant="381000"/>
+
+        <mois nom="Septembre"
+              vehicules="18"
+              thermique="15"
+              hybride="2"
+              electrique="1"
+              montant="508000"/>
+
+        <mois nom="Octobre"
+              vehicules="20"
+              thermique="16"
+              hybride="2"
+              electrique="2"
+              montant="571500"/>
+
+        <mois nom="Novembre"
+              vehicules="23"
+              thermique="19"
+              hybride="3"
+              electrique="1"
+              montant="635000"/>
+
+        <mois nom="Décembre"
+              vehicules="30"
+              thermique="25"
+              hybride="3"
+              electrique="2"
+              montant="825500"/>
+
+    </annee>
+    <annee valeur="2018">
+
+        <mois nom="Janvier"
+            vehicules="17"
+            thermique="13"
+            hybride="3"
+            electrique="1"
+            montant="483000"/>
+
+        <mois nom="Février"
+            vehicules="17"
+            thermique="13"
+            hybride="3"
+            electrique="1"
+            montant="483000"/>
+
+        <mois nom="Mars"
+            vehicules="20"
+            thermique="16"
+            hybride="3"
+            electrique="1"
+            montant="552000"/>
+
+        <mois nom="Avril"
+            vehicules="20"
+            thermique="16"
+            hybride="3"
+            electrique="1"
+            montant="552000"/>
+
+        <mois nom="Mai"
+            vehicules="20"
+            thermique="15"
+            hybride="3"
+            electrique="2"
+            montant="552000"/>
+
+        <mois nom="Juin"
+            vehicules="22"
+            thermique="17"
+            hybride="3"
+            electrique="2"
+            montant="621000"/>
+
+        <mois nom="Juillet"
+            vehicules="17"
+            thermique="13"
+            hybride="3"
+            electrique="1"
+            montant="483000"/>
+
+        <mois nom="Août"
+            vehicules="15"
+            thermique="12"
+            hybride="2"
+            electrique="1"
+            montant="414000"/>
+
+        <mois nom="Septembre"
+            vehicules="20"
+            thermique="16"
+            hybride="3"
+            electrique="1"
+            montant="552000"/>
+
+        <mois nom="Octobre"
+            vehicules="22"
+            thermique="17"
+            hybride="3"
+            electrique="2"
+            montant="621000"/>
+
+        <mois nom="Novembre"
+            vehicules="25"
+            thermique="19"
+            hybride="4"
+            electrique="2"
+            montant="690000"/>
+
+        <mois nom="Décembre"
+            vehicules="30"
+            thermique="24"
+            hybride="4"
+            electrique="2"
+            montant="897000"/>
+
+    </annee>
+    <annee valeur="2019">
+
+        <mois nom="Janvier"
+            vehicules="19"
+            thermique="14"
+            hybride="4"
+            electrique="1"
+            montant="539000"/>
+
+        <mois nom="Février"
+            vehicules="19"
+            thermique="14"
+            hybride="4"
+            electrique="1"
+            montant="539000"/>
+
+        <mois nom="Mars"
+            vehicules="21"
+            thermique="15"
+            hybride="4"
+            electrique="2"
+            montant="616000"/>
+
+        <mois nom="Avril"
+            vehicules="21"
+            thermique="15"
+            hybride="4"
+            electrique="2"
+            montant="616000"/>
+
+        <mois nom="Mai"
+            vehicules="21"
+            thermique="15"
+            hybride="4"
+            electrique="2"
+            montant="616000"/>
+
+        <mois nom="Juin"
+            vehicules="24"
+            thermique="18"
+            hybride="4"
+            electrique="2"
+            montant="693000"/>
+
+        <mois nom="Juillet"
+            vehicules="19"
+            thermique="14"
+            hybride="4"
+            electrique="1"
+            montant="539000"/>
+
+        <mois nom="Août"
+            vehicules="16"
+            thermique="12"
+            hybride="3"
+            electrique="1"
+            montant="462000"/>
+
+        <mois nom="Septembre"
+            vehicules="21"
+            thermique="15"
+            hybride="4"
+            electrique="2"
+            montant="616000"/>
+
+        <mois nom="Octobre"
+            vehicules="24"
+            thermique="18"
+            hybride="4"
+            electrique="2"
+            montant="693000"/>
+
+        <mois nom="Novembre"
+            vehicules="27"
+            thermique="20"
+            hybride="5"
+            electrique="2"
+            montant="770000"/>
+
+        <mois nom="Décembre"
+            vehicules="36"
+            thermique="28"
+            hybride="4"
+            electrique="4"
+            montant="1001000"/>
+
+    </annee>
+    <annee valeur="2020">
+
+        <mois nom="Janvier"
+            vehicules="16"
+            thermique="11"
+            hybride="3"
+            electrique="2"
+            montant="458500"/>
+
+        <mois nom="Février"
+            vehicules="16"
+            thermique="11"
+            hybride="3"
+            electrique="2"
+            montant="458500"/>
+
+        <mois nom="Mars"
+            vehicules="18"
+            thermique="13"
+            hybride="3"
+            electrique="2"
+            montant="524000"/>
+
+        <mois nom="Avril"
+            vehicules="18"
+            thermique="12"
+            hybride="4"
+            electrique="2"
+            montant="524000"/>
+
+        <mois nom="Mai"
+            vehicules="18"
+            thermique="12"
+            hybride="4"
+            electrique="2"
+            montant="524000"/>
+
+        <mois nom="Juin"
+            vehicules="21"
+            thermique="15"
+            hybride="4"
+            electrique="2"
+            montant="589500"/>
+
+        <mois nom="Juillet"
+            vehicules="16"
+            thermique="11"
+            hybride="3"
+            electrique="2"
+            montant="458500"/>
+
+        <mois nom="Août"
+            vehicules="14"
+            thermique="10"
+            hybride="3"
+            electrique="1"
+            montant="393000"/>
+
+        <mois nom="Septembre"
+            vehicules="18"
+            thermique="13"
+            hybride="3"
+            electrique="2"
+            montant="524000"/>
+
+        <mois nom="Octobre"
+            vehicules="21"
+            thermique="15"
+            hybride="4"
+            electrique="2"
+            montant="589500"/>
+
+        <mois nom="Novembre"
+            vehicules="23"
+            thermique="16"
+            hybride="5"
+            electrique="2"
+            montant="655000"/>
+
+        <mois nom="Décembre"
+            vehicules="29"
+            thermique="21"
+            hybride="4"
+            electrique="4"
+            montant="851500"/>
+
+    </annee>
+    <annee valeur="2021">
+        <mois nom="Janvier"
+            vehicules="18"
+            thermique="12"
+            hybride="4"
+            electrique="2"
+            montant="507500"/>
+
+        <mois nom="Février"
+            vehicules="18"
+            thermique="12"
+            hybride="4"
+            electrique="2"
+            montant="507500"/>
+
+        <mois nom="Mars"
+            vehicules="20"
+            thermique="13"
+            hybride="4"
+            electrique="3"
+            montant="580000"/>
+
+        <mois nom="Avril"
+            vehicules="20"
+            thermique="13"
+            hybride="4"
+            electrique="3"
+            montant="580000"/>
+
+        <mois nom="Mai"
+            vehicules="20"
+            thermique="13"
+            hybride="4"
+            electrique="3"
+            montant="580000"/>
+
+        <mois nom="Juin"
+            vehicules="23"
+            thermique="15"
+            hybride="5"
+            electrique="3"
+            montant="652500"/>
+
+        <mois nom="Juillet"
+            vehicules="18"
+            thermique="12"
+            hybride="4"
+            electrique="2"
+            montant="507500"/>
+
+        <mois nom="Août"
+            vehicules="15"
+            thermique="10"
+            hybride="3"
+            electrique="2"
+            montant="435000"/>
+
+        <mois nom="Septembre"
+            vehicules="20"
+            thermique="13"
+            hybride="4"
+            electrique="3"
+            montant="580000"/>
+
+        <mois nom="Octobre"
+            vehicules="23"
+            thermique="15"
+            hybride="5"
+            electrique="3"
+            montant="652500"/>
+
+        <mois nom="Novembre"
+            vehicules="25"
+            thermique="16"
+            hybride="5"
+            electrique="4"
+            montant="725000"/>
+
+        <mois nom="Décembre"
+            vehicules="32"
+            thermique="22"
+            hybride="5"
+            electrique="5"
+            montant="942500"/>
+
+    </annee>
+    <annee valeur="2022">
+
+        <mois nom="Janvier"
+            vehicules="20"
+            thermique="12"
+            hybride="5"
+            electrique="3"
+            montant="584500"/>
+
+        <mois nom="Février"
+            vehicules="20"
+            thermique="12"
+            hybride="5"
+            electrique="3"
+            montant="584500"/>
+
+        <mois nom="Mars"
+            vehicules="23"
+            thermique="14"
+            hybride="6"
+            electrique="3"
+            montant="668000"/>
+
+        <mois nom="Avril"
+            vehicules="23"
+            thermique="14"
+            hybride="6"
+            electrique="3"
+            montant="668000"/>
+
+        <mois nom="Mai"
+            vehicules="23"
+            thermique="14"
+            hybride="6"
+            electrique="3"
+            montant="668000"/>
+
+        <mois nom="Juin"
+            vehicules="26"
+            thermique="16"
+            hybride="6"
+            electrique="4"
+            montant="751500"/>
+
+        <mois nom="Juillet"
+            vehicules="20"
+            thermique="12"
+            hybride="5"
+            electrique="3"
+            montant="584500"/>
+
+        <mois nom="Août"
+            vehicules="17"
+            thermique="10"
+            hybride="4"
+            electrique="3"
+            montant="501000"/>
+
+        <mois nom="Septembre"
+            vehicules="23"
+            thermique="14"
+            hybride="6"
+            electrique="3"
+            montant="668000"/>
+
+        <mois nom="Octobre"
+            vehicules="26"
+            thermique="16"
+            hybride="6"
+            electrique="4"
+            montant="751500"/>
+
+        <mois nom="Novembre"
+            vehicules="29"
+            thermique="17"
+            hybride="7"
+            electrique="5"
+            montant="835000"/>
+
+        <mois nom="Décembre"
+            vehicules="35"
+            thermique="20"
+            hybride="9"
+            electrique="6"
+            montant="1085500"/>
+
+    </annee>
+    <annee valeur="2023">
+
+        <mois nom="Janvier"
+            vehicules="22"
+            thermique="12"
+            hybride="6"
+            electrique="4"
+            montant="644000"/>
+
+        <mois nom="Février"
+            vehicules="22"
+            thermique="12"
+            hybride="6"
+            electrique="4"
+            montant="644000"/>
+
+        <mois nom="Mars"
+            vehicules="25"
+            thermique="13"
+            hybride="7"
+            electrique="5"
+            montant="736000"/>
+
+        <mois nom="Avril"
+            vehicules="25"
+            thermique="13"
+            hybride="7"
+            electrique="5"
+            montant="736000"/>
+
+        <mois nom="Mai"
+            vehicules="25"
+            thermique="13"
+            hybride="7"
+            electrique="5"
+            montant="736000"/>
+
+        <mois nom="Juin"
+            vehicules="28"
+            thermique="15"
+            hybride="7"
+            electrique="6"
+            montant="828000"/>
+
+        <mois nom="Juillet"
+            vehicules="22"
+            thermique="12"
+            hybride="6"
+            electrique="4"
+            montant="644000"/>
+
+        <mois nom="Août"
+            vehicules="19"
+            thermique="10"
+            hybride="5"
+            electrique="4"
+            montant="552000"/>
+
+        <mois nom="Septembre"
+            vehicules="25"
+            thermique="13"
+            hybride="7"
+            electrique="5"
+            montant="736000"/>
+
+        <mois nom="Octobre"
+            vehicules="28"
+            thermique="15"
+            hybride="7"
+            electrique="6"
+            montant="828000"/>
+
+        <mois nom="Novembre"
+            vehicules="31"
+            thermique="17"
+            hybride="8"
+            electrique="6"
+            montant="920000"/>
+
+        <mois nom="Décembre"
+            vehicules="40"
+            thermique="25"
+            hybride="8"
+            electrique="7"
+            montant="1196000"/>
+
+    </annee>
+    <annee valeur="2024">
+
+        <mois nom="Janvier"
+            vehicules="24"
+            thermique="12"
+            hybride="6"
+            electrique="6"
+            montant="710500"/>
+
+        <mois nom="Février"
+            vehicules="24"
+            thermique="12"
+            hybride="6"
+            electrique="6"
+            montant="710500"/>
+
+        <mois nom="Mars"
+            vehicules="27"
+            thermique="13"
+            hybride="7"
+            electrique="7"
+            montant="812000"/>
+
+        <mois nom="Avril"
+            vehicules="27"
+            thermique="13"
+            hybride="7"
+            electrique="7"
+            montant="812000"/>
+
+        <mois nom="Mai"
+            vehicules="27"
+            thermique="13"
+            hybride="7"
+            electrique="7"
+            montant="812000"/>
+
+        <mois nom="Juin"
+            vehicules="30"
+            thermique="14"
+            hybride="8"
+            electrique="8"
+            montant="913500"/>
+
+        <mois nom="Juillet"
+            vehicules="24"
+            thermique="12"
+            hybride="6"
+            electrique="6"
+            montant="710500"/>
+
+        <mois nom="Août"
+            vehicules="20"
+            thermique="10"
+            hybride="5"
+            electrique="5"
+            montant="609000"/>
+
+        <mois nom="Septembre"
+            vehicules="27"
+            thermique="13"
+            hybride="7"
+            electrique="7"
+            montant="812000"/>
+
+        <mois nom="Octobre"
+            vehicules="30"
+            thermique="14"
+            hybride="8"
+            electrique="8"
+            montant="913500"/>
+
+        <mois nom="Novembre"
+            vehicules="34"
+            thermique="16"
+            hybride="9"
+            electrique="9"
+            montant="1015000"/>
+
+        <mois nom="Décembre"
+            vehicules="44"
+            thermique="20"
+            hybride="11"
+            electrique="13"
+            montant="1319500"/>
+
+    </annee>
+    <annee valeur="2025">
+
+        <mois nom="Janvier"
+            vehicules="26"
+            thermique="10"
+            hybride="8"
+            electrique="8"
+            montant="787500"/>
+
+        <mois nom="Février"
+            vehicules="26"
+            thermique="10"
+            hybride="8"
+            electrique="8"
+            montant="787500"/>
+
+        <mois nom="Mars"
+            vehicules="29"
+            thermique="12"
+            hybride="8"
+            electrique="9"
+            montant="900000"/>
+
+        <mois nom="Avril"
+            vehicules="29"
+            thermique="12"
+            hybride="8"
+            electrique="9"
+            montant="900000"/>
+
+        <mois nom="Mai"
+            vehicules="29"
+            thermique="12"
+            hybride="8"
+            electrique="9"
+            montant="900000"/>
+
+        <mois nom="Juin"
+            vehicules="33"
+            thermique="13"
+            hybride="10"
+            electrique="10"
+            montant="1012500"/>
+
+        <mois nom="Juillet"
+            vehicules="26"
+            thermique="10"
+            hybride="8"
+            electrique="8"
+            montant="787500"/>
+
+        <mois nom="Août"
+            vehicules="22"
+            thermique="9"
+            hybride="6"
+            electrique="7"
+            montant="675000"/>
+
+        <mois nom="Septembre"
+            vehicules="29"
+            thermique="12"
+            hybride="8"
+            electrique="9"
+            montant="900000"/>
+
+        <mois nom="Octobre"
+            vehicules="33"
+            thermique="13"
+            hybride="10"
+            electrique="10"
+            montant="1012500"/>
+
+        <mois nom="Novembre"
+            vehicules="37"
+            thermique="15"
+            hybride="11"
+            electrique="11"
+            montant="1125000"/>
+
+        <mois nom="Décembre"
+            vehicules="46"
+            thermique="18"
+            hybride="15"
+            electrique="13"
+            montant="1462500"/>
+
+    </annee>
+
+</ventes>
