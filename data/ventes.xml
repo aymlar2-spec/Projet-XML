@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ventes entreprise="CarPulse">
+<ventes entreprise="CarPulse"
+       adresse="123 Rue de l'Automobile, 75000 Paris"
+       xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="ventes.xsd">
 
     <annee valeur="2016">
 
